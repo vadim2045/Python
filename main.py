@@ -1,5 +1,5 @@
-print("\"Мультипарадиграмальнi мови програмування\":Лабораторна 1")
-print('Плужников Вадим, IKM-221к')
+print('Multiparadigmal programming languages : Lab 1')
+print('Pluzhnikov Vadim, IKM-221k')
 
 # Вывод имени 45 раз
 name = ["Vladyslav" for _ in range(45)]
